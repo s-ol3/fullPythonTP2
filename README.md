@@ -1,14 +1,14 @@
 
 
- 🔗 [Live Home Netlify](https://bonappetit-tp2-back.netlify.app/index-home "") 
+ 🔗 [Live Home Netlify](https://tp2-bonappetit.netlify.app/00index-home "") 
 ㅤ
- 🔗 [Live Admin Page Netlify](https://bonappetit-tp2-back.netlify.app/ "")
+ 🔗 [Live Admin Page Netlify](https://tp2-bonappetit.netlify.app/ "")
 
 
 
-🔗 [Live Home GithubPages](https://s-ol3.github.io/fullPythonTP2-TP1/ "")
+🔗 [Live Home GithubPages](https://s-ol3.github.io/fullPythonTP2/00index-home "")
 ㅤ
-🔗 [Live Admin Page GithubPages](https://s-ol3.github.io/fullPythonTP2-TP1/index.html "")
+🔗 [Live Admin Page GithubPages](https://s-ol3.github.io/fullPythonTP2/ "")
 
 
  ㅤ
