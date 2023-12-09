@@ -27,7 +27,7 @@
         <input type="checkbox" id="nav-check">
         <div class="nav-header">
             <div class="nav-title">
-                <a href="index-home.html"><img src="./assets/img/logo-sinFondoNEGR.png" alt="logo"></a>
+                <a href="00index-home.html"><img src="./assets/img/logo-sinFondoNEGR.png" alt="logo"></a>
             </div>
         </div>
         <!-- menu hamburguesa -->
@@ -56,7 +56,7 @@
                     <th>Cantidad</th>
                     <th align="right">ㅤPrecio</th>
                     <th>ㅤImagen</th>
-                    <th align="right">Proveedor</th> <!-- si se deja comentado sacar lo que trae del back tambien, sino quedan los datos sueltos en la tabla y en la bd-->
+                    <!-- <th align="right">Proveedor</th> --> <!-- si se deja comentado sacar lo que trae del back tambien, sino quedan los datos sueltos en la tabla y en la bd-->
                     
 
                 </tr>
@@ -104,9 +104,9 @@
                             //Al subir al servidor, deberá utilizarse la siguiente ruta. USUARIO debe ser reemplazado por el nombre de usuario de Pythonanywhere
 
                             //-------------sin proveedor
-                            //'<td><img src=https://www.pythonanywhere.com/user/ols/files/home/ols/mysite/static/imagenes/' + producto.imagen_url + ' alt="Imagen del producto" style="width: 100px; padding-left:1em;"></td>' + '<td align="right">' + '</td>';
+                            '<td><img src=https://www.pythonanywhere.com/user/ols/files/home/ols/mysite/static/imagenes/' + producto.imagen_url + ' alt="Imagen del producto" style="width: 100px; padding-left:1em;"></td>' + '<td align="right">' + '</td>';
                             //-------------con proveedor
-                            '<td><img src=https://www.pythonanywhere.com/user/ols/files/home/ols/mysite/static/imagenes/' + producto.imagen_url + ' alt="Imagen del producto" style="width: 100px; padding-left:1em;"></td>' + '<td align="right">' + producto.proveedor + '</td>';
+                            //'<td><img src=https://www.pythonanywhere.com/user/ols/files/home/ols/mysite/static/imagenes/' + producto.imagen_url + ' alt="Imagen del producto" style="width: 100px; padding-left:1em;"></td>' + '<td align="right">' + producto.proveedor + '</td>';
 
 
                         //Una vez que se crea la fila con el contenido del producto, se agrega a la tabla utilizando el método appendChild del elemento tablaProductos.
